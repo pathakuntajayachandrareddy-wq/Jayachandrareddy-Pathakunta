@@ -1,0 +1,13 @@
+{
+  "name": "agritrace-vscode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Blockchain-based agricultural produce traceability prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
